@@ -1,2 +1,2 @@
 # Devops-aula02
-will smith, hugh jackman, angelina jolie.
+will smith, cris rock, angelina jolie,hugh jackman.
